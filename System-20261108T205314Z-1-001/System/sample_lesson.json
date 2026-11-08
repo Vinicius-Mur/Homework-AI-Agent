@@ -1,0 +1,118 @@
+{
+ "lesson_title": "Trouble at the Airport",
+ "cefr_level": "A2",
+ "focus_summary": "present continuous · airport language",
+ "main_aim": "By the end of the lesson, students can explain what is happening in a simple airport problem, using the present continuous.",
+ "objectives": [
+  "Use 8 airport chunks (boarding pass, check-in desk, gate) in context.",
+  "Describe what people are doing now: She is looking for her bag.",
+  "Ask for help politely: Can you help me, please?",
+  "Place stress on the important words in short questions."
+ ],
+ "teacher_lead_in": "Lead-in (3 min): mostre uma foto de aeroporto e pergunte 'What are people doing?'. Leitura: 1º contato só para o gist, 2º para os detalhes. Pré-ensine no máximo 3 palavras.",
+ "comprehensible_input_text": "Hi Marco,\n\nGreetings from the airport! It's chaos here. I'm standing at gate 14 and my flight is boarding, but my bag isn't with me. A man at the check-in desk is helping me now. He is looking for my luggage on his computer.\n\nMy friend Lena is waiting for me at the cafe. She's drinking a coffee and she's laughing at me! The other passengers are walking to the plane with their boarding passes. I'm not walking anywhere. I'm waiting.\n\nOh, wait. The man is smiling and he's carrying my bag! Everything is fine. I'm running to the gate now!\n\nSpeak soon,\nAna",
+ "highlights": [
+  {"text": "gate 14", "kind": "vocab"}, {"text": "check-in desk", "kind": "vocab"}, {"text": "boarding passes", "kind": "vocab"},
+  {"text": "luggage", "kind": "vocab"}, {"text": "passengers", "kind": "vocab"},
+  {"text": "I'm standing", "kind": "verb"}, {"text": "is boarding", "kind": "verb"}, {"text": "is helping", "kind": "verb"},
+  {"text": "is looking", "kind": "verb"}, {"text": "is waiting", "kind": "verb"}, {"text": "are walking", "kind": "verb"},
+  {"text": "I'm not walking", "kind": "exception"}
+ ],
+ "word_bank": [
+  {"word": "gate", "meaning": "where you wait to get on the plane"},
+  {"word": "check-in desk", "meaning": "the place to give your bag"},
+  {"word": "boarding pass", "meaning": "paper or phone ticket for the plane"},
+  {"word": "luggage", "meaning": "bags and suitcases"},
+  {"word": "passenger", "meaning": "a person who travels"},
+  {"word": "chaos", "meaning": "a very confusing situation"}
+ ],
+ "gist_questions": [
+  {"question": "Where is Ana?", "options": ["at home", "at the airport", "at school"], "answer": "at the airport"},
+  {"question": "What is the problem?", "options": ["Her bag is missing.", "Her flight is cancelled.", "Her phone is broken."], "answer": "Her bag is missing."}
+ ],
+ "true_false": [
+  {"statement": "Lena is drinking a coffee.", "answer": true},
+  {"statement": "Ana is walking to the plane.", "answer": false},
+  {"statement": "A man is looking for the luggage.", "answer": true},
+  {"statement": "The bag is lost forever.", "answer": false}
+ ],
+ "teacher_shadowing_note": "Protocolo: (1) ouvir sem ler, (2) marcar as palavras fortes em verde, (3) echo linha a linha, (4) shadowing em voz baixa. Este diálogo é o modelo do task da próxima página.",
+ "shadowing_dialogue": [
+  {"speaker": "Ana", "line": "Excuse me, I'm looking for my bag.", "stress_words": ["Excuse", "looking", "bag"], "intonation": "fall"},
+  {"speaker": "Agent", "line": "What does it look like?", "stress_words": ["What", "look"], "intonation": "fall"},
+  {"speaker": "Ana", "line": "It's black and it has a red label.", "stress_words": ["black", "red", "label"], "intonation": "fall"},
+  {"speaker": "Agent", "line": "Are you waiting for a flight?", "stress_words": ["waiting", "flight"], "intonation": "rise"},
+  {"speaker": "Ana", "line": "Yes, my plane is boarding now!", "stress_words": ["Yes", "plane", "boarding"], "intonation": "fall"},
+  {"speaker": "Agent", "line": "Don't worry. I'm checking the system.", "stress_words": ["worry", "checking", "system"], "intonation": "fall"}
+ ],
+ "pronunciation_focus": {
+  "title": "Stress in compound nouns",
+  "rule": "In airport compounds, the first part is the strongest.",
+  "examples": ["CHECK-in desk", "BOARDing pass", "SUITcase", "PASSport"],
+  "common_slip": "Common slip: boarding-PASS. Say BOARDing pass."
+ },
+ "teacher_tblt_note": "Ciclo: pre-task (2 min), task (8), planning (3), report (5). Durante o task não corrija: anote erros de forma (is/are, -ing) para o language focus.",
+ "tblt_task": {
+  "title": "Mission: Find the lost bag",
+  "outcome": "A short report to the airport agent that describes the bag and what is happening now.",
+  "role_problem": "You are a passenger. Your bag is missing and your plane is boarding in 20 minutes. Work with a partner who plays the airport agent.",
+  "pre_task": "Read the prompts and the useful language below.",
+  "task": "Passenger: explain the problem. Agent: ask questions and take notes. Then switch roles.",
+  "planning": "Prepare 3 sentences about what is happening at the airport right now.",
+  "report": "Tell another pair how the problem ends.",
+  "task_prompts": ["Say where you are and what you are doing.", "Describe your bag (colour, size).", "Say what the agent is doing.", "Explain why you are worried.", "Ask what will happen next.", "Thank the agent."],
+  "useful_language": ["I'm looking for my bag.", "What is he doing?", "Are they checking the system?", "My plane is boarding now!"]
+ },
+ "language_focus": {
+  "title": "Present continuous",
+  "formula": "Subject + am / is / are + verb-ing. She is looking for her bag.",
+  "column_headers": ["Subject", "Be", "Verb-ing"],
+  "rows": [
+   {"col1": "I", "col2": "am", "col3": "looking", "is_exception": false},
+   {"col1": "he / she / it", "col2": "is", "col3": "waiting", "is_exception": false},
+   {"col1": "we / you / they", "col2": "are", "col3": "walking", "is_exception": false},
+   {"col1": "run", "col2": "is", "col3": "running", "is_exception": true},
+   {"col1": "smile", "col2": "is", "col3": "smiling", "is_exception": true}
+  ],
+  "errors": [
+   {"wrong": "She looking for her bag.", "right": "She is looking for her bag."},
+   {"wrong": "They is waiting.", "right": "They are waiting."},
+   {"wrong": "I am run to the gate.", "right": "I am running to the gate."}
+  ]
+ },
+ "teacher_reconfiguration_note": "Os alunos reordenam blocos de sentido (não palavras soltas) e depois transformam frases de 'I' para 'she'. Peça que sublinhem is/are/am em verde.",
+ "reconfiguration": {
+  "shuffle_instruction": "Put the blocks in order to make a natural sentence.",
+  "shuffle_items": [
+   {"intent_hint": "Say what you are doing now.", "blocks": ["at gate 14", "I'm standing", "right now."], "answer": "I'm standing at gate 14 right now."},
+   {"intent_hint": "Say what the agent is doing.", "blocks": ["is looking", "for my luggage", "The agent"], "answer": "The agent is looking for my luggage."},
+   {"intent_hint": "Ask politely for help.", "blocks": ["Can you help me,", "please?"], "answer": "Can you help me, please?"},
+   {"intent_hint": "Say that your friend is relaxing.", "blocks": ["is drinking", "my friend Lena", "a coffee."], "answer": "My friend Lena is drinking a coffee."}
+  ],
+  "transform_instruction": "Rewrite each sentence about Ana. Start with She.",
+  "transform_items": [
+   {"original": "I'm waiting for my bag.", "answer": "She is waiting for her bag."},
+   {"original": "I'm standing at the gate.", "answer": "She is standing at the gate."},
+   {"original": "I'm not walking to the plane.", "answer": "She is not walking to the plane."}
+  ]
+ },
+ "check_items": [
+  {"prompt": "Ana ______ at gate 14.", "options": ["stand", "is standing", "standing"], "answer": "is standing"},
+  {"prompt": "Choose the correct sentence.", "options": ["They are walking.", "They walking.", "They is walking."], "answer": "They are walking."},
+  {"prompt": "Where is the stress in 'check-in desk'?", "options": ["CHECK-in desk", "check-IN desk"], "answer": "CHECK-in desk"},
+  {"prompt": "Write a question: ask what the agent is doing.", "options": [], "answer": "What is the agent doing?"},
+  {"prompt": "Write two sentences about what is happening in your classroom now.", "options": [], "answer": "Open answer: check is/are + verb-ing."}
+ ],
+ "can_do": ["say what is happening now with am / is / are + -ing.", "ask for help at an airport.", "say airport compounds with the right stress."],
+ "mfp": {
+  "meaning": "Present continuous descreve ações em andamento agora. Diferente do simple present, não é rotina.",
+  "form": "Sujeito + am/is/are + verbo-ing. Negativo: am/is/are + not. Pergunta: inverter be e sujeito. Run → running.",
+  "pronunciation": "Formas contraídas: I'm, she's. -ing fraco /ɪŋ/. Compostos: acento na 1ª parte (CHECK-in desk)."
+ },
+ "anticipated_problems": [
+  {"problem": "Omitir o verbo be: She looking...", "solution": "Gesto de 'be' no quadro; correção coletiva no language focus."},
+  {"problem": "Confundir is/are com sujeito plural.", "solution": "Cores: sujeito azul, be verde; treinar com cartões."},
+  {"problem": "Dupla -n/-p: running, stopping.", "solution": "Mostrar 3 exemplos e deixar os alunos deduzirem a regra."}
+ ],
+ "pedagogical_rationale": "O texto de Ana apresenta o present continuous em contexto de problema real. A missão força o aluno a descrever o que acontece agora, e a reconfiguração em blocos treina a ordem natural sem explicar regras."
+}
